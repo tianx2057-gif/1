@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧本分镜导演"
+  short_description: "按剧本与对标生成逐章分镜，统一风格并执行轴线、侧脸、景别及切镜检查"
+  default_prompt: "使用 $series-storyboard-director，根据剧本背景、类型、对标影视和章节正文生成分镜，保留原剧情、台词和动作三阶段，执行轴线、侧脸、景别与切镜硬约束，无需大纲或指定镜数。"
